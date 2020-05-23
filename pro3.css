@@ -1,0 +1,33 @@
+body {
+ 	 background-image: url("gt.jpg");
+ 	 background-repeat: no-repeat;
+ 	 background-size: 1500px 750px;
+ 	 background-attachment: scroll;
+ 	 }
+h1{
+	color: green;
+	border:2px solid Tomato;
+	background-color: cyan;
+}
+img{height: 50px;
+	width:50px;
+	}
+ul {
+  list-style-type: square;
+}
+ol {
+  list-style-type: upper-roman;
+}
+table,th,td{
+	border: 1px solid black;
+}
+table{
+	border-collapse: collapse;
+	height: 100%;
+	width: 50%;
+}
+td{
+	text-align: center;
+	vertical-align: top;
+	padding: 20px;
+}
